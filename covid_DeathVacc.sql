@@ -1,3 +1,7 @@
+/*
+Covid 19 Data Exploration
+*/
+
 
 SELECT *
 FROM PortfolioProject..CovidDeaths
